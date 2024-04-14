@@ -12,7 +12,7 @@
 - Display a new random quote on clicking button
 ---
 ### Hosted at
---
+https://randome-quote-generator.netlify.app/
 
 ---
 ### Author
