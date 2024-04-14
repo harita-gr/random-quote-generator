@@ -6,8 +6,8 @@ import axios from "axios";
 
 class Quotes extends Component {
   state = {
-    quote: "",
-    author: "",
+    quote: "Whatever the mind of man can conceive and believe, it can achieve.",
+    author: "Napoleon Hill",
     quotesData: [],
     color: "rgb(243,156,18)",
   };
